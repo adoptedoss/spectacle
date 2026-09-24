@@ -1,3 +1,9 @@
+> I’ve used Spectacle to manage windows for years. It’s simple, it just works, and its shortcuts are pure muscle memory for me. But after switching to an Apple M-series Mac, running it became a bit of a hassle, and the original author has archived the project, so it won’t be updated anymore.
+> 
+> At first I forked Spectacle, hoping to keep maintaining it myself. Once I got into it, though, I found that compatibility was a major problem with the old codebase, and fixing it wasn’t going to be easy.
+>  
+> So I took a different route: with the help of AI, I wrote a standalone replacement from scratch. It keeps Spectacle’s workflow and window layout logic, and runs natively on both Intel and Apple M-series chips. That’s [omo](https://binhua.org/omo), and it's free.
+
 # Spectacle
 
 [![Build Status](https://travis-ci.org/eczarny/spectacle.svg?branch=master)](https://travis-ci.org/eczarny/spectacle)
